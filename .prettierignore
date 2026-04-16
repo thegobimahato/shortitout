@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+dist
+.vercel
+
+.env
+.env.*
+
+prisma/*.db
+prisma/*.db-journal
+
+coverage
+
+*.log
+.cache
